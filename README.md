@@ -5,10 +5,10 @@ I'm focused in API and microservices development, integration with external serv
 I currently work in a telecommunication company.
 
 <p>
-<a href="http://youtube.com/@deimos1669?sub_confirmation=1">
+<a href="http://youtube.com/@deimos195?sub_confirmation=1">
     <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCBlQgjhPpGxfmYFx6j71FJA?style=social">
 </a>
-<a href="http://youtube.com/@deimos1669?sub_confirmation=1">
+<a href="http://youtube.com/@deimos195?sub_confirmation=1">
     <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCBlQgjhPpGxfmYFx6j71FJA?style=social">
 </a>
 <a href="http://twitch.tv/Deimos_x?sub_confirmation=1">
