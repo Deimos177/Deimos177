@@ -6,10 +6,10 @@ I currently work in a telecommunication company.
 
 <p>
 <a href="http://youtube.com/@deimos1669?sub_confirmation=1">
-    <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCvqdMDAlHP3EHegoaF0PmXA?style=social">
+    <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCBlQgjhPpGxfmYFx6j71FJA?style=social">
 </a>
 <a href="http://youtube.com/@deimos1669?sub_confirmation=1">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCvqdMDAlHP3EHegoaF0PmXA?style=social">
+    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCBlQgjhPpGxfmYFx6j71FJA?style=social">
 </a>
 <a href="http://twitch.tv/Deimos_x?sub_confirmation=1">
     <img alt="Twitch Status" src="https://img.shields.io/twitch/status/linuxtips?style=social">
