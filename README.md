@@ -2,7 +2,7 @@ Hello 🖖
 
 I am a full-cycle developer with over 4 years of active experienc in software development.
 I'm focused in API and microservices development, integration with external service and implement test cases.
-I currently work in a telecommunication company.
+I currently work at Axway.
 
 <p>
 <a href="http://youtube.com/@deimos195?sub_confirmation=1">
