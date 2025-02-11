@@ -1,6 +1,6 @@
 Hello 🖖
 
-I am a full-cycle developer with over 4 years of active experienc in software development.
+I am a full-cycle developer with over 4 years of active experience in software development.
 I'm focused in API and microservices development, integration with external service and implement test cases.
 I currently work at Axway.
 
