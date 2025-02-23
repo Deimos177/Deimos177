@@ -21,10 +21,12 @@ I currently work at Axway.
 
 **Skills**:
 
-- **Backend:** Java, Node, C#
-- **DevOps:** Jenkins, Kubernetes, Docker
+- **Backend:** Java, Node, C#, Python
+- **DevOps:** Jenkins, Kubernetes, Docker, github actions, HELM, ArgoCD, Canary deployment 
 - **Databases:** PostgreSQL, Oracle database, Mysql
 - **Other:** Git, TDD
+- **Gateway:** Axway, Kong, Azure
+- **
 
 ## Find me elsewhere
 
