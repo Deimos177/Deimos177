@@ -26,7 +26,6 @@ I currently work at Axway.
 - **Databases:** PostgreSQL, Oracle database, Mysql
 - **Other:** Git, TDD
 - **Gateway:** Axway, Kong, Azure
-- **
 
 ## Find me elsewhere
 
